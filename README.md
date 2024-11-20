@@ -12,7 +12,7 @@
 |-----------------------------------|----------------------------|-------------------|---------------------------------------|----------------|
 | `2. App Design Workbook copy 2.zip` | Initial file upload         | Soham2395         | Add files via upload                  | 3 months ago   |
 | `2. App Design Workbook.key.zip`   | Initial file upload         | Soham2395         | Add files via upload                  | 3 months ago   |
-| `README.md`                        | Updated README.md           | omsenpaiii       | Merge pull request #1 from Branch-1   | Yesterday      |
+| `README.md`                        | Updated README.md           | omsenpaiii        | Merge pull request #1 from Branch-1   | Yesterday      |
 
 ---
 
